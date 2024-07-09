@@ -10,16 +10,16 @@ comparisons across different dimensions.
    The primary focus of the dashboard is to provide a clear understanding of sales performance across
    various dimensions such as time, product categories, and geographical regions.
 
-3. Insights through Bar Charts :-
+2. Insights through Bar Charts :-
    
    Bar charts are prominently used to display metrics such as order quantities, sales revenue, and profit margins.
    These charts facilitate easy comparison and identification of top-performing categories or products.
 
 3. Utilization of Line Charts :-
  
-  Line charts complement the bar charts by showing trends and patterns over time. By plotting sales,
-  order quantities, or profit margins over months or years, users can visualize growth trends, seasonal
-  variations, and identify any potential anomalies or patterns in sales performance.   
+    Line charts complement the bar charts by showing trends and patterns over time. By plotting sales,
+    order quantities, or profit margins over months or years, users can visualize growth trends, seasonal
+    variations, and identify any potential anomalies or patterns in sales performance.   
 
 Conclusion :-
 
